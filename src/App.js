@@ -5,10 +5,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Hello world</h1>
+        <h2>Hello ReactJS</h2>
       </header>
     </div>
   );
 }
-
 export default App;
 // xin chao
